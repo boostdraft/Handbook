@@ -24,7 +24,7 @@ In a team that brings together people from diverse cultures and backgrounds, we 
 Our communication guidelines are designed to create a comfortable and collaborative environment for everyone, ensuring the best experience and performance for all.
 
 
-### (Extra effort to align assumptions [])
+### (Extra effort to align assumptions [Core values/Extra effort to align assumptions.md])
 
 Without shared context and aligned assumptions, it can be challenging for diverse team members to stay on the same page. 
 To promote effective discussions, it’s essential to clarify and align assumptions before exchanging opinions, leading to more meaningful and efficient conversations.
