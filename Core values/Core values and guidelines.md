@@ -49,21 +49,40 @@ Instead of saying, “In my experience…” focus on why and how your experienc
 
 
 # Behaviour Guidelines
-xx
+
+hese guidelines help shape how we work, make decisions, and interact with one another to uphold our core values.
 
 
 ### (Distributed-autonomy and self-drive [])
+At BoostDraft, each team member has the freedom and responsibility to make decisions and drive their work autonomously. In a distributed environment, self-drive is essential for success.
+We encourage everyone to set clear goals, manage their time effectively, and proactively seek solutions. Trust your instincts, ask for support when needed, and remember that each decision you make contributes to the bigger picture.
 
 
 ### (Ownership for product and organization [])
 
-Tasks that are not assigned to anyone else are your tasks. And even if you ask another member of the team to assist you, it does not mean that it is out of your hands, and you are strongly expected to take responsibility for checking the status and that it is working correctly. 
+Taking ownership means treating the product and the company as if they were your own. Each member is responsible for not only their work but also the overall success of BoostDraft. 
+Whether it’s a small feature or a strategic decision, approach every task with accountability and pride. Ownership also includes addressing challenges, sharing ideas for improvement, and supporting others in their work. When we all act as owners, we collectively drive the company forward.
 
 
 ### (Ask users before half-complete [])
 
+User feedback is invaluable in our development process. Don’t wait until a product is fully polished to reach out for feedback—engage users early and often, even if the feature is only partially developed. 
+This approach helps us align our work with real user needs, identify potential issues, and adapt quickly based on their insights. Frequent user feedback not only enhances our product but also reinforces our commitment to building solutions that truly serve our users.
+
+
 ### (Codify and update guideline [])
+
+Guidelines are living documents that should evolve with the company. As we grow and learn, we may encounter new scenarios or develop more efficient processes. 
+Whenever possible, codify what works well into guidelines and refine them based on real experiences. This ensures that everyone has access to the latest insights and best practices, promoting consistency and clarity across the team.
+
 
 ### (Transparency by default [])
 
+Open communication and transparency are fundamental at BoostDraft. By default, share information openly, whether it’s about company goals, product developments, or feedback. 
+Transparency fosters trust, enables informed decision-making, and encourages everyone to contribute their ideas and opinions. We believe that when people have access to information, they are empowered to act with purpose and confidence.
+
+
 ### (Creativity for Speed [])
+
+Innovation and efficiency go hand in hand at BoostDraft. We encourage creative problem-solving that enables us to work faster and adapt quickly. 
+Embrace unconventional ideas and be open to new approaches that can help us achieve our goals more effectively. By fostering a culture of creativity, we’re able to keep up with the demands of our fast-paced environment without compromising on quality.
