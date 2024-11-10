@@ -5,9 +5,10 @@ It’s a moment that can either strengthen or damage the trust and integrity wit
 Please use the template below to document moments of truth that could arise when you work in your team and then model behavior, bad behavior and reason behind the choice.
 
 > ### **Template for scenario**
-> ### (Scenario name)
+> ### Title of the moment of truth
+> - Scenario:
 > - Model behavior:
-> - Bad behabior:
+> - Bad behavior:
 > - Reason:
 
 
@@ -24,4 +25,5 @@ Please use the template below to document moments of truth that could arise when
 
 
 ## SWE
+
 
