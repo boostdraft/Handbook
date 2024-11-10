@@ -30,7 +30,7 @@ Without shared context and aligned assumptions, it can be challenging for divers
 To promote effective discussions, it’s essential to clarify and align assumptions before exchanging opinions, leading to more meaningful and efficient conversations.
 
 
-### (Direct communication and positive intent [])
+### [Direct communication and positive intent](Direct_communication_and_positive_intent.md)
 
 In some cultures, direct communication might be seen as impolite. At BoostDraft, however, direct communication is our default to accelerate innovation and personal growth. 
 It’s equally important to listen with positive intent, understanding that direct feedback is intended constructively. Trust that all members are communicating with respect and a genuine interest in each other's growth.
