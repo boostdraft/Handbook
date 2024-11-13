@@ -1,6 +1,7 @@
 # Core Values
 
-[Core Values](https://github.com/boostdraft/Handbook/blob/main/CoreValues.md)
+[Core Values](/CoreValues.md)
+
+[Behavior Guideline](/BehaviorGuideline.md)
 
 
-# 
