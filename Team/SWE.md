@@ -1,4 +1,6 @@
 # 1. Extra effort to align assumption　前提のずれをなくすために努力しよう
+## What kind of bad things would happen if we don't have this?
+## Clarification (how to use the guideline?)
 # 2. Direct communication and positive intent listening 直接的に伝え、聞く側は「いい意味で」を無意識に補間しよう
 # 3. Explicitly show respect　尊敬を明文化しよう
 # 4. Logic over experience　経験を言語化して伝えよう
