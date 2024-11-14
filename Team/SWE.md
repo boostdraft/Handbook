@@ -16,5 +16,17 @@
 - Iterating design only is much cheaper than redoing development and QA work.
 
 # 8. Codify and update guideline　ガイドラインを言語化・アップデートしよう
+## What kind of bad things would happen if we don't have this?
+- Guildeline is updated but not everyone is aware of that.
+- Mentor needs to explain the same thing repeatedly for new joingers.
+- Information scatters across different places (GitHub, Notion, Goodle Docs, Slack, etc.).
+- Waste of time to search for information.
+## Clarification (how to use the guideline?)
+- "You should be able to find the information by yourself by looking at XXX".
+- "Before asking questions, search XXX by yourself."
+## Additional comments
+- Probably we're not doing great job here today.
+- Creating a meta guildeline for guildeline? How to write guideline and how to search for guideline?
+
 # 9. Transparency by default		公開がデフォルト。DMを避けよう
 # 10, Creativity for Speed		最速を実現するためにクリエイティビティ
