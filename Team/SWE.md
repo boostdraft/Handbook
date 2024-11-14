@@ -10,7 +10,7 @@
 - Clarify the definition of technical terms, make and share a document the definitions for understanding of another teams 
 - Prepare a document for the concrete instruction before the meeting, and left  a memo about next action. 
 
-## 2. Direct communication and positive intent listening
+# 2. Direct communication and positive intent listening
 ## What kind of bad things would happen if we don't have this?
 Sometimes, people are so concerned about the other person that they don't give accurate information
 ## Clarification (how to use the guideline?)
@@ -23,7 +23,7 @@ Sometimes, people are so concerned about the other person that they don't give a
     - Understand that your sender care about accuracy for you
 
 
-## 3. Explicitly show respect
+# 3. Explicitly show respect
 ## What kind of bad things would happen if we don't have this?
 - Engineers doesn't know what went wrong and loses confidence.
 - Engineers degrade the quality of the work they do.
