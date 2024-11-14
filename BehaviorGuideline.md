@@ -14,6 +14,8 @@
 - Creativity for Speed		最速を実現するためにクリエイティビティ
 
 # Detail explanation
+
+Test edit - this is new added 
  
 ### Extra effort to align assumption
 - Objective: xxxx
