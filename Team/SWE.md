@@ -6,6 +6,12 @@
 # 4. Logic over experience　経験を言語化して伝えよう
 # 5. Distributed-autonomy and self-drive　自律分散・自走主義
 # 6. Ownership for product and organization	「自分が」会社・プロダクトを作っているとして行動しよう
+## What kind of bad things would happen if we don't have this?
+- Blame game
+- Bad atmosphere
+- Bad product
+## Clarification (how to use the guideline?)
+Take responsibility for your tasks, the overall health of the product, and BoostDraft. It is OUR company.
 # 7. Ask users before half-complete		作り込む前にユーザーに問おう
 # 8. Codify and update guideline　ガイドラインを言語化・アップデートしよう
 # 9. Transparency by default		公開がデフォルト。DMを避けよう
