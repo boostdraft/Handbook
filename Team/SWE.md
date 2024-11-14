@@ -36,7 +36,13 @@ Sometimes, people are so concerned about the other person that they don't give a
 # 4. Logic over experience　経験を言語化して伝えよう
 # 5. Distributed-autonomy and self-drive　自律分散・自走主義
 # 6. Ownership for product and organization	「自分が」会社・プロダクトを作っているとして行動しよう
-
+## What kind of bad things would happen if we don't have this?
+- Let the blame game begin: I write risky code, thinking it’s the reviewer’s job to catch the bugs!
+- When people don’t feel like co-owners, they may feel less engaged and motivated, which affects team spirit and productivity.
+- We allow BoostDraft to become a worse product, and no one takes responsibility for the tasks that need doing.
+## Clarification (how to use the guideline?)
+- Take responsibility for your tasks, the overall health of the product, and BoostDraft. It is OUR company.
+- If you break something, fix it. Create solutions that will make life easier for yourself or the next person to work on the code.
 # 7. Ask users before half-complete		作り込む前にユーザーに問おう
 ## What kind of bad things would happen if we don't have this?
 - Spent too much time developing on wrong/not-intuitive design and later it turns out that this is not customers want.
