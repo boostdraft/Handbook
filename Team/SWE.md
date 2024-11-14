@@ -29,4 +29,17 @@
 - Creating a meta guildeline for guildeline? How to write guideline and how to search for guideline?
 
 # 9. Transparency by default		公開がデフォルト。DMを避けよう
+## What kind of bad things would happen if we don't have this?
+- The same question repeatedly asked and answered.
+- Problems don't get exposed before they become huge.
+## Clarification (how to use the guideline?)
+- Ask questions in dev channel instead of asking via DM.
+- Share what you're going to do with others as early as possible to catch potential mistakes and/or course correct.
+
 # 10, Creativity for Speed		最速を実現するためにクリエイティビティ
+## What kind of bad things would happen if we don't have this?
+- (pretty much the same for #7).
+## Clarification (how to use the guideline?)
+- Focus on higher priority part and hand wave lower priority part, which is just good enough for getting feedback.
+- Make MVP first.
+- When you feel you get stuck, seek for brainstorming and other's input. Just summarizing problems for others might help you sometimes.
