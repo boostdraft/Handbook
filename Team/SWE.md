@@ -34,6 +34,16 @@ Sometimes, people are so concerned about the other person that they don't give a
 - Don't ignore it and react when someone does something.
 
 # 4. Logic over experience　経験を言語化して伝えよう
+## What kind of bad things would happen if we don't have this?
+- We may make decisions based on what is comfortable for us, and fail to innovate. 
+- We may make decisions based on what has been done in the past, even though they don't solve the problems we have in the present.
+- We will not understand the reasons why we are doing things the way we are
+## Clarification (how to use the guideline?)
+We at BoostDraft firmly believe in logically supporting your arguments over merely referencing your past experience. While experience is valuable, without logical reasoning behind any proposed solution, it becomes difficult to communicate its validity and align on a decision. Regardless of level of experience, you need to be able to back up your decisions with reasoning. It can be easy to prioritize comfort over best solution. But “most comfortable” is not always the “best”. One needs to be able to explain and provide logical reasoning, preferably with some results/examples. Be willing to ask "why", and be prepared to answer the question when other people ask it.
+
+- Good example of how you can apply this: “I think we should use X for solving Y. Here are my reasons why”.
+- Bad Example: “I have a lot of experience with X. So, we should use X 😤”
+
 # 5. Distributed-autonomy and self-drive　自律分散・自走主義
 # 6. Ownership for product and organization	「自分が」会社・プロダクトを作っているとして行動しよう
 
