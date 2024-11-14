@@ -32,3 +32,44 @@ Sometimes, people are so concerned about the other person that they don't give a
 - Politely explain the context and make sure they understand what's wrong when you reject a PR.
 - Praise the good points in the PR.
 - Don't ignore it and react when someone does something.
+
+# 4. Logic over experience　経験を言語化して伝えよう
+# 5. Distributed-autonomy and self-drive　自律分散・自走主義
+# 6. Ownership for product and organization	「自分が」会社・プロダクトを作っているとして行動しよう
+
+# 7. Ask users before half-complete		作り込む前にユーザーに問おう
+## What kind of bad things would happen if we don't have this?
+- Spent too much time developing on wrong/not-intuitive design and later it turns out that this is not customers want.
+## Clarification (how to use the guideline?)
+- Ask user's feedback (internal / external) as early as possible.
+- Don't spend too much time on less important details before getting feedback.
+- Iterating design only is much cheaper than redoing development and QA work.
+
+# 8. Codify and update guideline　ガイドラインを言語化・アップデートしよう
+## What kind of bad things would happen if we don't have this?
+- Guildeline is updated but not everyone is aware of that.
+- Mentor needs to explain the same thing repeatedly for new joingers.
+- Information scatters across different places (GitHub, Notion, Goodle Docs, Slack, etc.).
+- Waste of time to search for information.
+## Clarification (how to use the guideline?)
+- "You should be able to find the information by yourself by looking at XXX".
+- "Before asking questions, search XXX by yourself."
+## Additional comments
+- Probably we're not doing great job here today.
+- Creating a meta guildeline for guildeline? How to write guideline and how to search for guideline?
+
+# 9. Transparency by default		公開がデフォルト。DMを避けよう
+## What kind of bad things would happen if we don't have this?
+- The same question repeatedly asked and answered.
+- Problems don't get exposed before they become huge.
+## Clarification (how to use the guideline?)
+- Ask questions in dev channel instead of asking via DM.
+- Share what you're going to do with others as early as possible to catch potential mistakes and/or course correct.
+
+# 10, Creativity for Speed		最速を実現するためにクリエイティビティ
+## What kind of bad things would happen if we don't have this?
+- (pretty much the same for #7).
+## Clarification (how to use the guideline?)
+- Focus on higher priority part and hand wave lower priority part, which is just good enough for getting feedback.
+- Make MVP first.
+- When you feel you get stuck, seek for brainstorming and other's input. Just summarizing problems for others might help you sometimes.
