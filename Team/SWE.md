@@ -11,7 +11,8 @@
 - When people don’t feel like co-owners, they may feel less engaged and motivated, which affects team spirit and productivity.
 - We allow BoostDraft to become a worse product, and no one takes responsibility for the tasks which need doing.
 ## Clarification (how to use the guideline?)
-Take responsibility for your tasks, the overall health of the product, and BoostDraft. It is OUR company.
+- Take responsibility for your tasks, the overall health of the product, and BoostDraft. It is OUR company.
+- If you break something, fix it. Create solutions which will make life easier for yourself or the next person to work on the code.
 # 7. Ask users before half-complete		作り込む前にユーザーに問おう
 # 8. Codify and update guideline　ガイドラインを言語化・アップデートしよう
 # 9. Transparency by default		公開がデフォルト。DMを避けよう
