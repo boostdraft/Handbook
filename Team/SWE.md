@@ -35,6 +35,16 @@ Sometimes, people are so concerned about the other person that they don't give a
 
 # 4. Logic over experience　経験を言語化して伝えよう
 # 5. Distributed-autonomy and self-drive　自律分散・自走主義
+## What kind of bad things would happen if we don't have this?
+- Work stalls and progress halts: Without proactive engagement, tasks and projects can come to a standstill, slowing down the overall workflow and momentum of the team.
+- Time is wasted: A lack of self-initiative results in inefficiency, with valuable time being lost as others have to step in to ensure work is being done.
+- Micromanagement becomes necessary: When individuals do not take ownership, managers or team leads are forced to micromanage, which can reduce productivity and morale.
+
+## Clarification (how to use the guideline?)
+At BoostDraft, being proactive in taking on tasks and solving problems is essential, especially in a remote working environment where mutual trust and self-initiative are vital. Each team member is expected to identify and work on tasks independently without needing prompts from others. If challenges arise, reaching out for assistance and collaborating with the team ensures progress and shared success. It’s important to address and report any encountered bugs or identify the appropriate owners for follow-up. To apply this, seek out tasks that need attention and don’t hesitate to ask for help and resources when needed.
+- Example of how you can apply this: Seek out tasks that need doing and be willing to ask for help and resources if you need them.
+- Bad example: A user reports a bug, but it would be annoying to fix it so nobody takes it on. The user eventually decides to use a different product.
+
 # 6. Ownership for product and organization	「自分が」会社・プロダクトを作っているとして行動しよう
 
 # 7. Ask users before half-complete		作り込む前にユーザーに問おう
